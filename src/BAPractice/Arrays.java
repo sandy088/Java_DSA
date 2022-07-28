@@ -1,4 +1,4 @@
-package BabbarPractice;
+package BAPractice;
 
 import java.util.Scanner;
 

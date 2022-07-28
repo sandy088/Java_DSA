@@ -1,3 +1,5 @@
+package patialaTraining;
+
 import java.util.Scanner;
 
 public class additionArr {

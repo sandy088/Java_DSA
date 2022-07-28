@@ -1,4 +1,4 @@
-package BabbarPractice;
+package BAPractice;
 
 public class SwapAlter {
 

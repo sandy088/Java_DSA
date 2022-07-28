@@ -1,4 +1,4 @@
-package BabbarPractice;
+package BAPractice;
 
 public class RevArr {
     static int[] revArr(int [] arr){
